@@ -1,0 +1,10 @@
+function add(a, b) {
+    return a + b;
+}
+
+console.log(add(2, 3));
+
+
+
+cd '/Volumes/Isha/Learning_JavaScript/01_Basic'
+
