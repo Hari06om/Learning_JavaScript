@@ -39,6 +39,7 @@ console.log("1"+1+2); // "112" - concatenation of "1"+1="11", then "11"+2="112"
 // Example of type conversion in javascript with  console.log statements
 let str = "123";
 console.log(typeof str); // string
+
 let num = Number(str);
 console.log(typeof num); // number
 console.log(num); // 123
